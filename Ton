@@ -1,0 +1,18 @@
+echo "# roteladvogado" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/roteladvogado/roteladvogado.git
+git push -u origin main
+echo "# roteladvogado" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/roteladvogado/roteladvogado.git
+git push -u origin main 22786181715638477666443291757958666751977321680932710066996410796933488661519
+0x32608595b409d4c66127b4a7f01d91cd9a553757370fe654cea11dba3bb9540f
+45353336871446533942508988160549723607635872167103782187566751235582946508718
+
+0x64451438c71619933a57864d53ca72364d284f62c639eb1f018d63f8ec20ffae
